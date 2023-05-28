@@ -12,3 +12,5 @@ is aimed at searching and studying such genes by bioinformatics analysis, which
 consists of differential expression and single-cell RNA-seq analysis, clustering,
 building linear prognostic model and investigating biological processes associated
 with the found genes.
+
+[Link to paper](https://github.com/netwasted/bachelors_thesis/blob/main/bachelors_thesis.pdf)
